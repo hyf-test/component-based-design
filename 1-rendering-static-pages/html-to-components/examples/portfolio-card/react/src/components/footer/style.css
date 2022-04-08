@@ -1,0 +1,31 @@
+hr {
+    margin-top: 10px;
+    margin-bottom: 8px;
+}
+
+.footer-section {
+    position: relative;
+    top: 20px;
+    cursor: pointer;
+    font-size: 2rem;
+    display: block;
+}
+
+.fa-whatsapp {
+    color: #0aff0a;
+}
+
+.fa-github {
+    color: #fff;
+    padding-left: 20px;
+}
+
+.fa-reddit {
+    color: #ff9670;
+    padding-left: 20px;
+}
+
+.fa-instagram {
+    color: #fd4949;
+    padding-left: 20px;
+}

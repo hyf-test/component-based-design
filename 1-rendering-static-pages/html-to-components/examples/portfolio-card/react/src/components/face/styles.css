@@ -6,3 +6,14 @@
   border: 3px solid #eee;
   background-color: #999;
 }
+.image-title {
+  font-size: 1.5rem;
+  color: #eee;
+  font-weight: 550;
+  letter-spacing: 2px;
+}
+.title-header {
+  font-size: 1.1rem;
+  color: #eee;
+  font-weight: 550;
+}
